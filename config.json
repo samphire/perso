@@ -5,15 +5,15 @@
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "Matthew Oakley",
+		"subtitle": "missionary, prophet, teacher",
 		"enter": "enter",
-		"supportAuthor": true,
+		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "Matthew Oakley",
+		"signature": "Chief Steward, Samphire Ministries",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -31,14 +31,14 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:boak67@gmail.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://samphyre.org",
 				"icon": "github",
-				"text": "Github"
+				"text": "Samphire"
 			}
 		}
 	}
